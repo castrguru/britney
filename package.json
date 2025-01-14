@@ -1,6 +1,9 @@
 {
-  "name": "nuxt-app",
-  "private": true,
+  "name": "castrguru-britney",
+  "version": "25.1.12",
+  "license": "MIT",
+  "description": "A complete low-no code solution for frame building on Farcaster.",
+  "author": "Castr GÜRŲ",
   "type": "module",
   "scripts": {
     "build": "nuxt build",
